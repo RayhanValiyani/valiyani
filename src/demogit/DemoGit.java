@@ -18,8 +18,8 @@ public class DemoGit {
         // TODO code application logic here
         System.out.println("Hello this my first git operation");
         
-        int a;
-        int b;
+        int a = 10;
+        int b = 15;
         int c = a + b;
     }
 
